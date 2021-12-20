@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://www.elections.nu.ca/sites/default/files/slider/ELECTIONS%20NU%20Main%20Sliders%20-%20Your%20Vote%20%28no%20text%29%20REV01.jpg');
+    background-size: 100%;
+  }
+
+.navbar {
+    background-color: rgb(9, 167, 167);
+    padding: 13px;
+  }
+  
+  .nav-option {
+    margin: 0 8px 0 8px;
+  }
+
+  .flex {
+    display: flex;
+  }
+  
+  .space-between {
+    justify-content: space-between;
+  }
+  
+  .w100 {
+    width: 100%;
+  }
+  .h150px {
+    height: 150px;
+  }
+  
+  .ta-left {
+    text-align: left;
+  }
+  
+  .ta-center {
+    text-align: center;
+  }
+  
+  .ta-right {
+    text-align: right;
+  }
+  .inline-block {
+    display: inline-block;
+  }
+  a {
+    display: block;
+  }
+  .SecondTitle {
+    font-size: 48px !important;
+    text-align: center;
+    color: cornflowerblue;
+  }
+  .InputFields {
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  
+  .InputFields label {
+    width: 66px;
+    display: inline-block;
+  }
+  
+  .Buttons {
+    position: fixed;
+    font-size: 16px;
+    left: 48%;
+  }
+  
+  .input-form {
+    width: fit-content;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .input-field {
+    text-align: right;
+    margin: 5px 0;
+  }
+  
+  .input-field label {
+    text-align: left;
+  }
+  
+  .input-field input {
+    text-align: right;
+  }
+  .tbody{
+   color:cornflowerblue;
+  }
